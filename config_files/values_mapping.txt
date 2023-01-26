@@ -1,0 +1,12 @@
+Variable,Meaning
+D1,Myocardial_Infarction
+D2,Breast_Cancer
+D3,Schizophrenia
+D4,Prostate_Cancer
+D5,Pancreatic_Cancer
+NG1,Disease-Specific Clinical Features
+NG2,Large-Scale Clinical Features
+PRS1,Disease-Specific PRS
+PRS2,Large-Scale Genetic Features
+M1,Logistic Regression
+M2,Neural Network

@@ -1,0 +1,12 @@
+Disease	PRS_Name	Directory
+Myocardial_Infarction	CAD_57	/mnt/research1/vcf_files
+Myocardial_Infarction	CAD_202	/mnt/research1/vcf_files
+Breast_Cancer	BC_77	/mnt/research1/vcf_files
+Breast_Cancer	BC_313	/mnt/research1/vcf_files
+Schizophrenia	SZ_128	/mnt/research1/vcf_files
+Schizophrenia	SZ_342	/mnt/research1/vcf_files
+Prostate_Cancer	PRO_103	/mnt/research1/vcf_files
+Prostate_Cancer	PRO_147	/mnt/research1/vcf_files
+Prostate_Cancer	PRO_269	/mnt/research1/vcf_files
+Pancreatic_Cancer	PAC_22	/mnt/research1/vcf_files
+Pancreatic_Cancer	PAC_49	/mnt/research1/vcf_files
